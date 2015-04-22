@@ -6,7 +6,7 @@ Processing
 https://processing.org/
 
 OpenCV for Processing
-https://github.com/atduskgreg/opencv-processing/issues/18
+https://github.com/atduskgreg/opencv-processing
 
 Nature of Code
 http://natureofcode.com/
